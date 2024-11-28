@@ -1,4 +1,12 @@
-## Here are some pictures of our app
+### We were able to complete our task at lab
+# Contribution
+
+## Roll: 2007033: - Idea
+## Roll: 2007045: - Firebase
+## Roll: 2007060: - UI
+
+
+## Here are some pictures of our app:
 
 
 
